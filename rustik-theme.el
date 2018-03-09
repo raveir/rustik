@@ -3,7 +3,7 @@
 ;; Copyright (C) 2018 Matt Barrett
 
 ;; Author: Matt Barrett <matt@monolithic.ca>
-;; URL: http://github.com/raveir/rustik-emacs
+;; URL: http://github.com/raveir/rustik
 ;; Version: 1
 
 ;; This program is free software; you can redistribute it and/or modify
