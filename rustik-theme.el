@@ -20,7 +20,7 @@
 ;; along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ;;; Credits:
-;; Bozhidar Batsov for his work on Rustik at which this theme was originally based on
+;; Bozhidar Batsov for his work on Zenburn at which this theme was originally based on
 ;; Jani Nurminen created the original theme for vim on which this port
 ;; is based.
 
